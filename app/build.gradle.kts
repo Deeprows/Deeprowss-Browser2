@@ -45,5 +45,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
 
     // WireGuard tunnel engine. Server credentials are fetched at runtime from Deeprows API.
-    implementation("com.wireguard.android:tunnel:1.0.20230726")
+    implementation("com.wireguard.android:tunnel:1.0.20260102")
 }
